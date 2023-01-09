@@ -1,0 +1,80 @@
+{
+    "Datos": [
+        {
+            "Vida": 80,
+            "Lucha": "EL luchador se puede Lucha"
+        },
+        {
+            "Vida": 300,
+            "Lucha": "EL gladiador si puede Lucha"
+        },
+        {
+            "Vida": 20000,
+            "Lucha": "EL gladiador no puede Lucha"
+        },
+        {
+            "Vida": 50,
+            "Lucha": "EL gladiador no puede Luchar"
+        },
+        {
+            "Vida": 80,
+            "Lucha": "EL luchador se puede Lucha"
+        },
+        {
+            "Vida": 300,
+            "Lucha": "EL gladiador si puede Lucha"
+        },
+        {
+            "Vida": 20000,
+            "Lucha": "EL gladiador no puede Lucha"
+        },
+        {
+            "Vida": 50,
+            "Lucha": "EL gladiador no puede Luchar"
+        },
+        {
+            "Vida": 199,
+            "Lucha": "EL gladiador si puede Luchar"
+        },
+        {
+            "Vida": 80,
+            "Lucha": "EL luchador se puede Lucha"
+        },
+        {
+            "Vida": 300,
+            "Lucha": "EL gladiador si puede Lucha"
+        },
+        {
+            "Vida": 20000,
+            "Lucha": "EL gladiador no puede Lucha"
+        },
+        {
+            "Vida": 50,
+            "Lucha": "EL gladiador no puede Luchar"
+        },
+        {
+            "Vida": 80,
+            "Lucha": "EL luchador se puede Lucha"
+        },
+        {
+            "Vida": 300,
+            "Lucha": "EL gladiador si puede Lucha"
+        },
+        {
+            "Vida": 20000,
+            "Lucha": "EL gladiador no puede Lucha"
+        },
+        {
+            "Vida": 50,
+            "Lucha": "EL gladiador no puede Luchar"
+        },
+        {
+            "Vida": 199,
+            "Lucha": "EL gladiador si puede Luchar"
+        },
+        {
+            "Vida": 200,
+            "Lucha": "EL gladiador si puede Luchar"
+        }
+    ]
+}
